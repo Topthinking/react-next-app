@@ -1,0 +1,15 @@
+@font-face{
+  font-family: top;
+  src:url("../../static/font/coupon.png")
+}
+.home{
+  font-family: top;
+  background: url(/static/images/coupon.png) no-repeat;
+  background-repeat: no-repeat;
+  // background: url(./images/coupon.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 200px;
+}
